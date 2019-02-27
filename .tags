@@ -1,0 +1,387 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+B	.\SVGAmode.h	/^	unsigned char B;	\/*À¶É«·ÖÁ¿£¬BLUEËõĞ´*\/$/;"	m	struct:__anon1
+B	.\SVGAmode.h	/^	unsigned char B;	\/*À¶É«·ÖÁ¿£¬BLUEËõĞ´*\/$/;"	m	struct:__anon2
+BITMAPINFOHEADER	.\SVGAmode.h	/^} BITMAPINFOHEADER;$/;"	t	typeref:struct:tagBITMAPINFOHEADER
+Bar	.\SVGAmode.c	/^void Bar(int x1, int y1, int x2, int y2, unsigned char color)$/;"	f
+Bar64k	.\DRAW.C	/^int Bar64k(int x1,int y1,int x2,int y2,int color)   \/\/ÒÔÇ°Lineyº¯ÊıÎª»ù´¡£¬»­ÊµĞÄµÄ¾ØĞÎµÄº¯Êı$/;"	f
+COACH	.\COACH.H	/^} COACH;$/;"	t	typeref:struct:coachinfo
+COACH_number	.\coach.c	/^int COACH_number=0;      \/\/å·²ç»åˆ›å»ºçš„æ•™ç»ƒæ•°é‡$/;"	v
+COLORS	.\SVGAmode.h	/^} COLORS;$/;"	t	typeref:struct:__anon1
+COLORS24	.\SVGAmode.h	/^} COLORS24;$/;"	t	typeref:struct:__anon2
+Circle	.\SVGAmode.c	/^void Circle(int xc, int yc, int radius, unsigned char color)$/;"	f
+Circlefill	.\SVGAmode.c	/^void Circlefill(int xc, int yc, int radius, unsigned char color)$/;"	f
+ClearKey	.\head.c	/^void ClearKey(void)$/;"	f
+Cursor	.\MOUSE2.C	/^void Cursor(int x,int y,int color)  \/\/ç®­å¤´é¼ æ ‡å‡½æ•°$/;"	f
+Cursor2	.\MOUSE2.C	/^void Cursor2(int x,int y,int color)   \/\/æ‰‹å‹é¼ æ ‡å‡½æ•°$/;"	f
+Cursor3	.\MOUSE2.C	/^void Cursor3(int x,int y,int color)   \/\/â€œIâ€å‹é¼ æ ‡å‡½æ•°$/;"	f
+G	.\SVGAmode.h	/^	unsigned char G;	\/*ÂÌÉ«·ÖÁ¿£¬GREENËõĞ´*\/$/;"	m	struct:__anon1
+G	.\SVGAmode.h	/^	unsigned char G;	\/*ÂÌÉ«·ÖÁ¿£¬GREENËõĞ´*\/$/;"	m	struct:__anon2
+GetBit	.\asc.c	/^int GetBit(int num,char ch)$/;"	f
+GetSVGA	.\SVGAmode.c	/^unsigned int GetSVGA(void)$/;"	f
+Getpixel64k	.\SVGAmode.c	/^int Getpixel64k(int x, int y)$/;"	f
+H	.\BIKEMOVE.H	9;"	d
+H1	.\music.c	43;"	d	file:
+H1	.\music.h	47;"	d
+H1S	.\music.c	44;"	d	file:
+H1S	.\music.h	48;"	d
+H2	.\music.c	45;"	d	file:
+H2	.\music.h	49;"	d
+H2S	.\music.c	46;"	d	file:
+H2S	.\music.h	50;"	d
+H3	.\music.c	47;"	d	file:
+H3	.\music.h	51;"	d
+H4	.\music.c	48;"	d	file:
+H4	.\music.h	52;"	d
+H4S	.\music.c	49;"	d	file:
+H4S	.\music.h	53;"	d
+H5	.\music.c	50;"	d	file:
+H5	.\music.h	54;"	d
+H5S	.\music.c	51;"	d	file:
+H5S	.\music.h	55;"	d
+H6	.\music.c	52;"	d	file:
+H6	.\music.h	56;"	d
+H6S	.\music.c	53;"	d	file:
+H6S	.\music.h	57;"	d
+H7	.\music.c	54;"	d	file:
+H7	.\music.h	58;"	d
+HEAD_H	.\head.h	38;"	d
+HH1	.\music.c	55;"	d	file:
+HH1	.\music.h	59;"	d
+HH1S	.\music.c	56;"	d	file:
+HH1S	.\music.h	60;"	d
+HH2	.\music.c	57;"	d	file:
+HH2	.\music.h	61;"	d
+HH2S	.\music.c	58;"	d	file:
+HH2S	.\music.h	62;"	d
+HH3	.\music.c	59;"	d	file:
+HH3	.\music.h	63;"	d
+HH4	.\music.c	60;"	d	file:
+HH4	.\music.h	64;"	d
+HH4S	.\music.c	61;"	d	file:
+HH4S	.\music.h	65;"	d
+HH5	.\music.c	62;"	d	file:
+HH5	.\music.h	66;"	d
+HH5S	.\music.c	63;"	d	file:
+HH5S	.\music.h	67;"	d
+HH6	.\music.c	64;"	d	file:
+HH6	.\music.h	68;"	d
+HH6S	.\music.c	65;"	d	file:
+HH6S	.\music.h	69;"	d
+HH7	.\music.c	66;"	d	file:
+HH7	.\music.h	70;"	d
+Horizline	.\SVGAmode.c	/^void Horizline(int x, int y, int width, unsigned char color)$/;"	f
+Initmouse	.\MOUSE2.C	/^int Initmouse(int xmi,int xma,int ymi,int yma)  \/\/åˆå§‹åŒ–é¼ æ ‡å‡½æ•°$/;"	f
+Input	.\regist2.c	/^void Input(char *account,char *password)$/;"	f
+InputInformation	.\regist2.c	/^int InputInformation(int x1,int x2,int y1,int y2,int pan,char reg[][20])$/;"	f
+JudgePassword	.\regist2.c	/^int JudgePassword(char *password,char *path)$/;"	f
+L1	.\music.c	19;"	d	file:
+L1	.\music.h	23;"	d
+L1S	.\music.c	20;"	d	file:
+L1S	.\music.h	24;"	d
+L2	.\music.c	21;"	d	file:
+L2	.\music.h	25;"	d
+L2S	.\music.c	22;"	d	file:
+L2S	.\music.h	26;"	d
+L3	.\music.c	23;"	d	file:
+L3	.\music.h	27;"	d
+L4	.\music.c	24;"	d	file:
+L4	.\music.h	28;"	d
+L4S	.\music.c	25;"	d	file:
+L4S	.\music.h	29;"	d
+L5	.\music.c	26;"	d	file:
+L5	.\music.h	30;"	d
+L5S	.\music.c	27;"	d	file:
+L5S	.\music.h	31;"	d
+L6	.\music.c	28;"	d	file:
+L6	.\music.h	32;"	d
+L6S	.\music.c	29;"	d	file:
+L6S	.\music.h	33;"	d
+L7	.\music.c	30;"	d	file:
+L7	.\music.h	34;"	d
+LENGTH	.\DRAW.H	6;"	d
+LL1	.\music.c	7;"	d	file:
+LL1	.\music.h	11;"	d
+LL1S	.\music.c	8;"	d	file:
+LL1S	.\music.h	12;"	d
+LL2	.\music.c	9;"	d	file:
+LL2	.\music.h	13;"	d
+LL2S	.\music.c	10;"	d	file:
+LL2S	.\music.h	14;"	d
+LL3	.\music.c	11;"	d	file:
+LL3	.\music.h	15;"	d
+LL4	.\music.c	12;"	d	file:
+LL4	.\music.h	16;"	d
+LL4S	.\music.c	13;"	d	file:
+LL4S	.\music.h	17;"	d
+LL5	.\music.c	14;"	d	file:
+LL5	.\music.h	18;"	d
+LL5S	.\music.c	15;"	d	file:
+LL5S	.\music.h	19;"	d
+LL6	.\music.c	16;"	d	file:
+LL6	.\music.h	20;"	d
+LL6S	.\music.c	17;"	d	file:
+LL6S	.\music.h	21;"	d
+LL7	.\music.c	18;"	d	file:
+LL7	.\music.h	22;"	d
+Line	.\SVGAmode.c	/^void Line(int x1, int y1, int x2, int y2, unsigned char color)$/;"	f
+Linex	.\DRAW.C	/^int Linex(int x1,int y1,int x2, int y2,int color)   \/\/»­Ë®Æ½ÏßµÄº¯Êı$/;"	f
+Liney	.\DRAW.C	/^int Liney(int x1,int y1,int x2, int y2,int color)    \/\/»­ÊúÖ±ÏßµÄº¯Êı$/;"	f
+Login	.\regist2.c	/^void Login()$/;"	f
+M	.\fee.H	7;"	d
+M1	.\music.c	31;"	d	file:
+M1	.\music.h	35;"	d
+M1S	.\music.c	32;"	d	file:
+M1S	.\music.h	36;"	d
+M2	.\music.c	33;"	d	file:
+M2	.\music.h	37;"	d
+M2S	.\music.c	34;"	d	file:
+M2S	.\music.h	38;"	d
+M3	.\music.c	35;"	d	file:
+M3	.\music.h	39;"	d
+M4	.\music.c	36;"	d	file:
+M4	.\music.h	40;"	d
+M4S	.\music.c	37;"	d	file:
+M4S	.\music.h	41;"	d
+M5	.\music.c	38;"	d	file:
+M5	.\music.h	42;"	d
+M5S	.\music.c	39;"	d	file:
+M5S	.\music.h	43;"	d
+M6	.\music.c	40;"	d	file:
+M6	.\music.h	44;"	d
+M6S	.\music.c	41;"	d	file:
+M6S	.\music.h	45;"	d
+M7	.\music.c	42;"	d	file:
+M7	.\music.h	46;"	d
+MY_MOUSE_H	.\my_mouse.h	2;"	d
+MouseDraw	.\mouseHM.c	/^int MouseDraw[10][16]={$/;"	v
+MousePutBk	.\my_mouse.c	/^void MousePutBk(int x, int y)$/;"	f
+MouseStoreBk	.\my_mouse.c	/^void MouseStoreBk(int x, int y)$/;"	f
+Mouse_above	.\MOUSE2.C	/^int Mouse_above(int x1,int y1,int x2,int y2)   \/\/åˆ¤æ–­é¼ æ ‡æ˜¯å¦åœ¨è§„å®šåŒºåŸŸä¸Šçš„å‡½æ•°$/;"	f
+Mouse_press	.\MOUSE2.C	/^int Mouse_press(int x1,int y1,int x2,int y2)     \/\/åˆ¤æ–­é¼ æ ‡æ˜¯å¦åœ¨è§„å®šåŒºåŸŸæŒ‰é”®çš„å‡½æ•°$/;"	f
+Mouse_putbk	.\MOUSE2.C	/^void Mouse_putbk(int x,int y)    \/\/è¦†ç›–å‰ä¸€ä½ç½®é¼ æ ‡çš„èƒŒæ™¯é¢œè‰²çš„å‡½æ•°$/;"	f
+Mouse_savebk	.\MOUSE2.C	/^void Mouse_savebk(int x, int y)   \/\/å­˜å‚¨å‰ä¸€ä½ç½®é¼ æ ‡èƒŒæ™¯é¢œè‰²$/;"	f
+Mousebk	.\mouseHM.c	/^int Mousebk[10][16];$/;"	v
+Mouseinit	.\mouseHM.c	/^STATUS Mouseinit(int xmin,int xmax,int ymin,int ymax)$/;"	f
+Mouseputbk	.\mouseHM.c	/^void Mouseputbk(int x,int y)$/;"	f
+Mouseshow	.\mouseHM.c	/^void Mouseshow(MOUSE mouse)$/;"	f
+Mousestatus	.\mouseHM.c	/^STATUS Mousestatus(int x1,int y1,int x2,int y2)$/;"	f
+Mousestorebk	.\mouseHM.c	/^void Mousestorebk(int x,int y)$/;"	f
+N	.\fee.H	6;"	d
+N	.\unlock.c	8;"	d	file:
+NOTE_NUM	.\music.c	74;"	d	file:
+NOTE_NUM	.\music.h	78;"	d
+NOW_coach	.\coach.c	/^int NOW_coach=0;$/;"	v
+Newxy	.\MOUSE2.C	/^void Newxy()             \/\/ç»˜å‡ºæ–°é¼ æ ‡(ç®­å¤´å‹é¼ æ ‡)çš„å‡½æ•°$/;"	f
+Newxy2	.\MOUSE2.C	/^void Newxy2()               \/\/ç»˜å‡ºæ–°é¼ æ ‡(æ‰‹å‹é¼ æ ‡)çš„å‡½æ•°$/;"	f
+Newxy3	.\MOUSE2.C	/^void Newxy3()               \/\/ç»˜å‡ºæ–°é¼ æ ‡(â€œIâ€å‹é¼ æ ‡)çš„å‡½æ•°$/;"	f
+Newxy6	.\MOUSE2.C	/^void Newxy6()$/;"	f
+OutASC	.\asc.c	/^int OutASC(char *string,int size,int color,int x0,int y0,int x1,int y1)$/;"	f
+P	.\fee.H	8;"	d
+P1	.\music.c	68;"	d	file:
+P1	.\music.h	72;"	d
+P2	.\music.c	69;"	d	file:
+P2	.\music.h	73;"	d
+P3	.\music.c	72;"	d	file:
+P3	.\music.h	76;"	d
+P4	.\music.c	70;"	d	file:
+P4	.\music.h	74;"	d
+P8	.\music.c	71;"	d	file:
+P8	.\music.h	75;"	d
+PER	.\main.c	/^}PER;/;"	t	typeref:struct:PERSON	file:
+PER	.\struct.h	/^}PER;$/;"	t	typeref:struct:PERSON
+PER	.\zhuce.h	/^}PER;$/;"	t	typeref:struct:PERSON
+PERSON	.\main.c	/^typedef struct PERSON$/;"	s	file:
+PERSON	.\struct.h	/^typedef struct PERSON$/;"	s
+PERSON	.\zhuce.h	/^typedef struct PERSON$/;"	s
+Putbmp256	.\SVGAmode.c	/^int Putbmp256(int x, int y, const char * path)$/;"	f
+Putbmp64k	.\SVGAmode.c	/^int Putbmp64k(int x, int y, const char * path)$/;"	f
+Putbmp64k_TMB	.\SVGAmode.c	/^int Putbmp64k_TMB(int x, int y, const char * path)   \/\/°ÑºÚÉ«ÊÓÎªÍ¸Ã÷µÄÌùÍ¼º¯Êı$/;"	f
+Putbmp64k_TMW	.\SVGAmode.c	/^int Putbmp64k_TMW(int x, int y, const char * path)   \/\/°Ñ°×É«ÊÓÎªÍ¸Ã÷µÄÌùÍ¼º¯Êı$/;"	f
+Putfile	.\regist2.c	/^int Putfile(char reg[][20])$/;"	f
+Putpixel256	.\SVGAmode.c	/^void Putpixel256(int x, int y, unsigned char color)$/;"	f
+Putpixel64k	.\SVGAmode.c	/^void Putpixel64k(int x, int y, unsigned int color)$/;"	f
+Q	.\fee.H	9;"	d
+R	.\SVGAmode.h	/^	unsigned char R;	\/*ºìÉ«·ÖÁ¿£¬REDËõĞ´*\/$/;"	m	struct:__anon1
+R	.\SVGAmode.h	/^	unsigned char R;	\/*ºìÉ«·ÖÁ¿£¬REDËõĞ´*\/$/;"	m	struct:__anon2
+RGBQUAD	.\SVGAmode.h	/^} RGBQUAD;$/;"	t	typeref:struct:tagRGBQUAD
+Rand	.\head.c	/^int Rand(int a, int b)$/;"	f
+Readmouse	.\MOUSE2.C	/^int Readmouse()          \/\/è¯»å–é¼ æ ‡ä½ç½®å‡½æ•°$/;"	f
+Readmouse	.\mouseHM.c	/^void Readmouse(MOUSE *mouse)$/;"	f
+Register	.\regist2.c	/^void Register()  \/\/×¢²áµÄº¯Êı$/;"	f
+SCR_HEIGHT	.\head.h	41;"	d
+SCR_WIDTH	.\head.h	40;"	d
+SVGA_H	.\SVGAmode.h	131;"	d
+Selectpage	.\SVGAmode.c	/^void Selectpage(register char page)$/;"	f
+SetSVGA256	.\SVGAmode.c	/^void SetSVGA256(void)$/;"	f
+SetSVGA64k	.\SVGAmode.c	/^void SetSVGA64k(void)$/;"	f
+Sign_coach	.\coach.c	/^void Sign_coach()$/;"	f
+Tri_L	.\DRAW.C	/^void Tri_L(int x,int y,int color)      \/\/ÒÔLineyº¯ÊıÎª»ù´¡£¬»­×óÈı½ÇĞÎµÄº¯Êı$/;"	f
+Tri_R	.\DRAW.C	/^void Tri_R(int x,int y,int color)     \/\/ÒÔÇ°Lineyº¯ÊıÎª»ù´¡£¬»­ÓÒÈı½ÇĞÎµÄº¯Êı$/;"	f
+WIDTH	.\DRAW.H	7;"	d
+Xorpixel	.\SVGAmode.c	/^void Xorpixel(int x, int y, unsigned char color)$/;"	f
+_ASC_H_	.\asc.h	2;"	d
+_BIKEMOVE_H_	.\BIKEMOVE.H	2;"	d
+_BIKE_H_	.\bike.h	2;"	d
+_COACH_H_	.\COACH.H	3;"	d
+_DRAW_H_	.\DRAW.H	2;"	d
+_EXPLAIN_H_	.\explain.h	2;"	d
+_FEE_H_	.\fee.H	2;"	d
+_LOGIN_H_	.\login.h	2;"	d
+_MOUSE_H2_	.\MOUSE2.H	2;"	d
+_REGIST2_H_	.\regist2.h	2;"	d
+_REGIST3_H_	.\regist3.h	2;"	d
+_REGIST_H_	.\regist.h	2;"	d
+_REMENU_H_	.\remenu.h	2;"	d
+_STRUCT_H_	.\struct.h	2;"	d
+_ZHUCE_H_	.\zhuce.h	2;"	d
+_music_H_	.\music.h	2;"	d
+a1	.\regist.c	/^int a1(void)   \/\/ç™»å½• --æ–°ç”¨æˆ·æ³¨å†Œ$/;"	f
+a1	.\regist2.c	/^int a1(void)   \/\/µÇÂ¼ --ĞÂÓÃ»§×¢²á$/;"	f
+a1	.\regist3.c	/^int a1(void)   \/\/µÇÂ¼ --ĞÂÓÃ»§×¢²á$/;"	f
+a2	.\regist.c	/^int a2(void)   \/\/ç™»å½• --æ¸…é™¤é”®$/;"	f
+a2	.\regist2.c	/^int a2(void)   \/\/µÇÂ¼ --Çå³ı¼ü$/;"	f
+a2	.\regist3.c	/^int a2(void)   \/\/µÇÂ¼ --Çå³ı¼ü$/;"	f
+a3	.\regist.c	/^int a3(void)  \/\/ç™»å½• --ç¡®è®¤é”®$/;"	f
+a3	.\regist2.c	/^int a3(void)  \/\/µÇÂ¼ --È·ÈÏ¼ü$/;"	f
+a3	.\regist3.c	/^int a3(void)  \/\/µÇÂ¼ --È·ÈÏ¼ü$/;"	f
+a4	.\regist.c	/^int a4(void)  \/\/ç™»å½• --è¿”å›ä¸»ç•Œé¢é”®$/;"	f
+a4	.\regist2.c	/^int a4(void)  \/\/µÇÂ¼ --·µ»ØÖ÷½çÃæ¼ü$/;"	f
+a4	.\regist3.c	/^int a4(void)  \/\/µÇÂ¼ --·µ»ØÖ÷½çÃæ¼ü$/;"	f
+a5	.\regist.c	/^int a5(void)   \/\/æ³¨å†Œ --ç¡®å®š$/;"	f
+a5	.\regist2.c	/^int a5(void)   \/\/×¢²á --È·¶¨$/;"	f
+a5	.\regist3.c	/^int a5(void)   \/\/×¢²á --È·¶¨$/;"	f
+a6	.\regist.c	/^int a6(void)  \/\/æ³¨å†Œ --é€€å‡º$/;"	f
+a6	.\regist2.c	/^int a6(void)  \/\/×¢²á --ÍË³ö$/;"	f
+a6	.\regist3.c	/^int a6(void)  \/\/×¢²á --ÍË³ö$/;"	f
+a7	.\regist.c	/^int a7(void)  \/\/æ³¨å†Œ --æ¸…é™¤$/;"	f
+a7	.\regist2.c	/^int a7(void)  \/\/×¢²á --Çå³ı$/;"	f
+a7	.\regist3.c	/^int a7(void)  \/\/×¢²á --Çå³ı$/;"	f
+abil	.\COACH.H	/^  int abil[5];$/;"	m	struct:coachinfo
+account	.\COACH.H	/^  char account[10];   \/\/ÕËºÅ$/;"	m	struct:coachinfo
+ae1	.\explain.c	/^int ae1()    \/\/¹â±êÔÚ ¡° ·µ»Ø ¡± µÄÉÏ·½$/;"	f
+aexplainy	.\explain.c	/^int aexplainy()  \/\/¹â±êÔÚÖ÷Ò³Ãæ ¡° Ê¹ÓÃËµÃ÷ ¡±µÄÉÏ·½$/;"	f
+aloginy	.\login.c	/^int aloginy()$/;"	f
+b	.\SVGAmode.h	/^    unsigned char b;	\/*À¶É«·ÖÁ¿£¬REDËõĞ´*\/$/;"	m	struct:tagRGBQUAD
+backmenu	.\remenu.c	/^int backmenu(void)$/;"	f
+biBitCount	.\SVGAmode.h	/^	unsigned int biBitCount;	\/*Ã¿¸öÏñËØËùĞèµÄÎ»Êı£¬±ØĞëÊÇ1£¨Ë«É«£©£¬4(16É«£©£¬8(256É«£©16(¸ß²ÊÉ«)»ò24£¨Õæ²ÊÉ«£©Ö®Ò»£¨29-30×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biClrImportant	.\SVGAmode.h	/^	unsigned long int biClrImportant;	\/*Î»Í¼ÏÔÊ¾¹ı³ÌÖĞÖØÒªµÄÑÕÉ«Êı£¨51-54×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biClrUsed	.\SVGAmode.h	/^	unsigned long int biClrUsed;		\/*Î»Í¼Êµ¼ÊÊ¹ÓÃµÄÑÕÉ«±íÖĞµÄÑÕÉ«Êı£¨47-50×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biCompression	.\SVGAmode.h	/^	unsigned long int biCompression;	\/*Î»Í¼Ñ¹ËõÀàĞÍ£¬±ØĞëÊÇ0£¨²»Ñ¹Ëõ£©£¬1(BI_RLE8Ñ¹ËõÀàĞÍ£©»ò2(BI_RLE4Ñ¹ËõÀàĞÍ£©Ö®Ò»£¨31-34×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biHeight	.\SVGAmode.h	/^	long int biHeight;			\/*Î»Í¼µÄ¸ß¶È£¬ÒÔÏñËØÎªµ¥Î»£¨23-26×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biPlanes	.\SVGAmode.h	/^	unsigned int biPlanes;		\/*Ä¿±êÉè±¸µÄ¼¶±ğ£¬±ØĞëÎª1(27-28×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biSize	.\SVGAmode.h	/^	unsigned long int biSize;	\/*±¾½á¹¹ËùÕ¼ÓÃ×Ö½ÚÊı£¨15-18×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biSizeImage	.\SVGAmode.h	/^	unsigned long int biSizeImage;		\/*Î»Í¼µÄ´óĞ¡(ÆäÖĞ°üº¬ÁËÎªÁË²¹ÆëĞĞÊıÊÇ4µÄ±¶Êı¶øÌí¼ÓµÄ¿Õ×Ö½Ú)£¬ÒÔ×Ö½ÚÎªµ¥Î»£¨35-38×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biWidth	.\SVGAmode.h	/^	long int biWidth;			\/*Î»Í¼µÄ¿í¶È£¬ÒÔÏñËØÎªµ¥Î»£¨19-22×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biXPelsPerMeter	.\SVGAmode.h	/^	long int biXPelsPerMeter;			\/*Î»Í¼Ë®Æ½·Ö±æÂÊ£¬Ã¿Ã×ÏñËØÊı£¨39-42×Ö½Ú£©*\/$/;"	m	struct:tagBITMAPINFOHEADER
+biYPelsPerMeter	.\SVGAmode.h	/^	long int biYPelsPerMeter;			\/*Î»Í¼´¹Ö±·Ö±æÂÊ£¬Ã¿Ã×ÏñËØÊı£¨43-46×Ö½Ú)*\/$/;"	m	struct:tagBITMAPINFOHEADER
+bicycle	.\bike.c	/^void bicycle(int x,int y)    \/\/å°é»„è½¦çš„å›¾ç‰‡æ¨¡å‹ï¼Œ40000è¡¨ç¤ºä¸ºæ©˜é»„è‰²,50000ä¸ºç²‰çº¢è‰²$/;"	f
+bike_putbk	.\BIKEMOVE.C	/^ void bike_putbk(int x,int y)$/;"	f
+bike_savebk	.\BIKEMOVE.C	/^ void bike_savebk(int x,int y)$/;"	f
+bike_sq	.\BIKEMOVE.C	/^int bike_sq[H][H]={0};$/;"	v
+bikemove	.\BIKEMOVE.C	/^int bikemove()$/;"	f
+buttons	.\MOUSE2.C	/^int mx=0,my=0,buttons=0;$/;"	v
+champion	.\COACH.H	/^  int  champion;       \/\/Å·¹Ú´ÎÊı$/;"	m	struct:coachinfo
+change_num	.\fee.C	/^float change_num(float x)$/;"	f
+circle_fill	.\DRAW.C	/^void circle_fill(int x,int y,int r,int color)   \/\/ÒÔÇ°Lineyº¯ÊıÒÔ¼°circleyº¯ÊıÎª»ù´¡£¬»­ÊµĞÄÔ²µÄº¯Êı$/;"	f
+circley	.\DRAW.C	/^void circley(int x,int y,int r,int color)  \/\/ÒÔÇ°Lineyº¯ÊıÎª»ù´¡£¬»­Ô²µÄº¯Êı$/;"	f
+coachinfo	.\COACH.H	/^typedef struct coachinfo$/;"	s
+coachnum	.\COACH.H	9;"	d
+cursor	.\my_mouse.c	/^void cursor(int x,int y)     \/\/ç”»é¼ æ ‡çš„å‡½æ•°$/;"	f
+d1	.\inter.c	/^    int t1=0,t2=0,t3=0,d1=0;$/;"	v
+d2	.\inter.c	/^    float d2,zong,d3,zong2;$/;"	v
+d3	.\inter.c	/^    float d2,zong,d3,zong2;$/;"	v
+default1	.\MOUSE2.C	/^int default1=0;$/;"	v
+drawmap	.\tanchishe.cpp	/^void drawmap(struct snk *p)\/\/»­µØÍ¼Ê³ÎïºÍÉß$/;"	f
+drd	.\tanchishe.cpp	/^void drd(int x,int y)\/\/»­µã$/;"	f
+drl	.\tanchishe.cpp	/^void drl(int x1,int y1,int x2,int y2)\/\/»­Ïß$/;"	f
+explainy	.\explain.c	/^int explainy()$/;"	f
+fen	.\tanchishe.cpp	/^int fen=0;\/\/»ı·Ö$/;"	v
+find_a	.\main.c	/^    char find_a[3];                    \/\/ÃÜ±£´ğ°¸$/;"	m	struct:PERSON	file:
+find_q	.\main.c	/^    char find_q[2];                   \/\/ÃÜ±£ÎÊÌâ$/;"	m	struct:PERSON	file:
+food	.\tanchishe.cpp	/^int food[2]={20,15};$/;"	v
+free_link	.\regist.c	/^void free_link(PER **head)                          \/\/é‡Šæ”¾é“¾è¡¨$/;"	f
+g	.\SVGAmode.h	/^	unsigned char g;	\/*ÂÌÉ«·ÖÁ¿£¬GREENËõĞ´*\/$/;"	m	struct:tagRGBQUAD
+gotoxy	.\tanchishe.cpp	/^void gotoxy(int x, int y)$/;"	f
+i	.\inter.c	/^    int i;$/;"	v
+id	.\main.c	/^    char id[2];            \/\/Âò0¡¢Âô1¼ÒÉí·İÑ¡Ôñ$/;"	m	struct:PERSON	file:
+init	.\my_mouse.c	/^int init(int xmi,int xma,int ymi,int yma)    \/\/é¼ æ ‡å™¨åˆå§‹åŒ–å‡½æ•°$/;"	f
+inputs	.\regist.c	/^void inputs(char *p,int x,int y)$/;"	f
+inputs	.\regist3.c	/^void inputs(char *p,int x,int y)$/;"	f
+jilu	.\tanchishe.cpp	/^int jilu;\/\/×î¸ß·Ö¼ÇÂ¼$/;"	v
+jiluzhe	.\tanchishe.cpp	/^char jiluzhe[20];$/;"	v
+keydown	.\tanchishe.cpp	/^int keydown(int z)\/\/»ñÈ¡ÊäÈë$/;"	f
+life	.\tanchishe.cpp	/^	int life;$/;"	m	struct:snk	file:
+link	.\tanchishe.cpp	/^	struct snk *link;$/;"	m	struct:snk	typeref:struct:snk::snk	file:
+log_in	.\regist.c	/^int log_in(PER *data)  \/\/æ¯æ¬¡åˆå§‹åŒ–SVGAï¼Ÿ$/;"	f
+login	.\regist3.c	/^int login(PER *data)$/;"	f
+login	.\zhuce.c	/^void login(struct mousemsg *mouse,struct system *syst,PER *data)$/;"	f
+loginy	.\login.c	/^int loginy()$/;"	f
+lujin	.\COACH.H	/^  char lujin[50];$/;"	m	struct:coachinfo
+main	.\1.c	/^int main()$/;"	f
+main	.\RUN.C	/^void main()$/;"	f
+main	.\tanchishe.cpp	/^int main()$/;"	f
+main	.\unlock.c	/^void main()$/;"	f
+mkfood	.\tanchishe.cpp	/^void mkfood(struct snk *p)$/;"	f
+mouse_bk	.\my_mouse.c	/^unsigned int mouse_bk[18][18]={0};$/;"	v
+mouse_sq	.\MOUSE2.C	/^int mouse_sq[20][24]={0};    \/\/å­˜å‚¨é¼ æ ‡åèƒŒæ™¯çš„äºŒç»´æ•°ç»„$/;"	v
+music	.\music.c	/^void music(void)$/;"	f
+mvsnk	.\tanchishe.cpp	/^struct snk * mvsnk(struct snk *p,int z)\/\/¸üĞÂÉßµÄ×ø±ê$/;"	f
+mx	.\MOUSE2.C	/^int mx=0,my=0,buttons=0;$/;"	v
+my	.\MOUSE2.C	/^int mx=0,my=0,buttons=0;$/;"	v
+name	.\COACH.H	/^  char name[20];      \/\/Ãû×Ö$/;"	m	struct:coachinfo
+name	.\main.c	/^    char name[7];            \/\/ÓÃ»§Ãû$/;"	m	struct:PERSON	file:
+name	.\struct.h	/^    char name[7];            \/\/ÓÃ»§Ãû$/;"	m	struct:PERSON
+name	.\zhuce.h	/^    char name[7];            \/\/ÓÃ»§Ãû$/;"	m	struct:PERSON
+newxy	.\my_mouse.c	/^void newxy(int *mx,int *my,int *mbutt)     \/\/æ˜¯å¦æœ‰æŒ‰é’®æŒ‰ä¸‹ï¼Œè‹¥æŒ‰ä¸‹ï¼Œåœ¨æ–°ä½ç½®ç”»é¼ æ ‡$/;"	f
+next	.\main.c	/^    struct PERSON *next;$/;"	m	struct:PERSON	typeref:struct:PERSON::PERSON	file:
+next	.\zhuce.h	/^    struct PERSON *next;$/;"	m	struct:PERSON	typeref:struct:PERSON::PERSON
+num_putbk	.\unlock.c	/^ void num_putbk(int x,int y)$/;"	f
+num_read	.\unlock.c	/^int num_read(char *str)$/;"	f
+num_savebk	.\unlock.c	/^void num_savebk(int x,int y)$/;"	f
+num_sq	.\unlock.c	/^int  num_sq[120][120]={0};$/;"	v
+num_write	.\unlock.c	/^int num_write(void)$/;"	f
+password	.\COACH.H	/^  char password[10];  \/\/ÃÜÂë$/;"	m	struct:coachinfo
+password	.\main.c	/^    char password[7];            \/\/ÃÜÂë$/;"	m	struct:PERSON	file:
+password	.\struct.h	/^    char password[7];            \/\/ÃÜÂë$/;"	m	struct:PERSON
+password	.\zhuce.h	/^    char password[7];            \/\/ÃÜÂë$/;"	m	struct:PERSON
+ptr_dis	.\inter.c	/^    char *ptr_dis="string2";$/;"	v
+ptr_fee	.\inter.c	/^    char *ptr_fee="string3";$/;"	v
+ptr_time	.\inter.c	/^    char *ptr_time="string1";$/;"	v
+r	.\SVGAmode.h	/^	unsigned char r;	\/*ºìÉ«·ÖÁ¿£¬BLUEËõĞ´*\/$/;"	m	struct:tagRGBQUAD
+read	.\my_mouse.c	/^int read(int *mx,int *my,int *mbutt)     \/\/è¯»é¼ æ ‡çš„ä½ç½®å’ŒæŒ‰é’®çŠ¶æ€å‡½æ•°$/;"	f
+read	.\regist.c	/^void read(PER *head)                            \/\/è¯»æ–‡ä»¶å‡½æ•°ï¼ŒåŠ¨æ€ç”Ÿæˆé“¾è¡¨ï¼Œè¿”å›é“¾è¡¨å¤´æŒ‡é’ˆ$/;"	f
+read	.\regist3.c	/^void read(PER *info,int *n)                            \/\/¶ÁÎÄ¼şº¯Êı£¬¶¯Ì¬Éú³ÉÁ´±í£¬·µ»ØÁ´±íÍ·Ö¸Õë$/;"	f
+regist	.\regist.c	/^int regist(PER *info,PER *data)$/;"	f
+regist	.\regist3.c	/^int regist(PER *info,PER *data)$/;"	f
+regs	.\MOUSE2.C	/^union REGS regs;   \/\/å®šä¹‰REGSç»“æ„ä½“$/;"	v	typeref:union:REGS
+regs	.\my_mouse.c	/^union REGS regs;$/;"	v	typeref:union:REGS
+reserved	.\SVGAmode.h	/^	unsigned char reserved;		\/*±£Áô×Ö*\/$/;"	m	struct:tagRGBQUAD
+save	.\regist.c	/^void save(PER *head)                          \/\/ä¿å­˜é“¾è¡¨åˆ°æ–‡ä»¶$/;"	f
+save	.\regist3.c	/^void save(PER *info,int n)                          \/\/±£´æÁ´±íµ½ÎÄ¼ş$/;"	f
+search	.\regist.c	/^int search(PER *info,PER *data)$/;"	f
+search	.\regist3.c	/^int search(PER *info,PER *data,int n)$/;"	f
+size	.\regist.h	13;"	d
+size	.\regist2.h	13;"	d
+size	.\regist3.h	13;"	d
+snk	.\tanchishe.cpp	/^struct snk{\/\/ÉßÉíÌå$/;"	s	file:
+speed	.\tanchishe.cpp	/^int speed=100;$/;"	v
+t1	.\inter.c	/^    int t1=0,t2=0,t3=0,d1=0;$/;"	v
+t2	.\inter.c	/^    int t1=0,t2=0,t3=0,d1=0;$/;"	v
+t3	.\inter.c	/^    int t1=0,t2=0,t3=0,d1=0;$/;"	v
+tagBITMAPINFOHEADER	.\SVGAmode.h	/^typedef struct tagBITMAPINFOHEADER$/;"	s
+tagRGBQUAD	.\SVGAmode.h	/^typedef struct tagRGBQUAD$/;"	s
+temp	.\process.c	/^ int temp=0;$/;"	v
+time	.\COACH.H	/^  int time[3];$/;"	m	struct:coachinfo
+timesave	.\fee.C	/^int timesave()$/;"	f
+total_fee	.\fee.C	/^float total_fee(int x,float y)$/;"	f
+total_mile	.\fee.C	/^float total_mile(int x)$/;"	f
+total_time	.\fee.C	/^int total_time(int x,int y)$/;"	f
+x	.\tanchishe.cpp	/^	int x;$/;"	m	struct:snk	file:
+y	.\tanchishe.cpp	/^	int y;$/;"	m	struct:snk	file:
+zong	.\inter.c	/^    float d2,zong,d3,zong2;$/;"	v
+zong2	.\inter.c	/^    float d2,zong,d3,zong2;$/;"	v
